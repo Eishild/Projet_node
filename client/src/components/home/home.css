@@ -1,0 +1,23 @@
+.home-page {
+  background-color: #2c3338;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  z-index: 1;
+}
+
+.home-page .logo {
+  width: 15%;
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  top: 1%;
+  left: 0;
+  z-index: 0;
+}
+
+.logo img {
+  width: 100%;
+}

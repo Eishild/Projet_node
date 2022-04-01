@@ -1,0 +1,13 @@
+.header {
+  /* width: 100%; */
+  position: absolute;
+  top: 2%;
+  right: 2%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header .logo {
+  position: absolute;
+  /* background-color: red; */
+}
